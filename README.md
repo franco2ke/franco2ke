@@ -24,20 +24,12 @@ I'm interested in **collaboration oportunities** and **healthy development discu
 - TypeScript, PHP
 - SQL optimization and database design
 
-**Philosophy & Approach**
-- Mindful development practices
-- Human-centered design thinking
-
 ## Featured Projects 🚀
 
 ### 🍳 **Forkified** - *Recipe Search App*
 A modern recipe search application that lets you discover, bookmark, and explore over 1,000,000 recipes with a clean, intuitive interface.
 *Tech: JavaScript, HTML5, CSS3, Recipe API*
 [🔗 Live Demo](https://forkified-franco.netlify.app/#5ed6604591c37cdc054bc886) | [📂 Repository](https://github.com/franco2ke/forkify)
-
-### 🌱 **EcoTracker** - *Open Source*
-Carbon footprint tracking application with gamification elements.
-*Tech: Vue.js, Node.js, PostgreSQL*
 
 ### ⚡ **DevFlow** - *Tool*
 CLI tool for managing development workflows with consciousness breaks.
@@ -48,11 +40,12 @@ CLI tool for managing development workflows with consciousness breaks.
 ## Current Focus 🎯
 
 - 🔭 Building experience with React Aria Components for accessible UI development
-⚡ Exploring Fastify.js for high-performance Node.js applications
+- ⚡ Exploring Fastify.js for high-performance Node.js applications
 - 🌱 Exploring AI tools, and how the future of work will look like
-- ✍️ Writing about conscious software development
 
 ## Let's Connect 🔗
+
+I'm interested in **collaboration oportunities** and **healthy development discussions**. Let's connect! 📧 Contact me: [www.franciswafula.com/contact](www.franciswafula.com/contact) or 💬 DM me on X: [@ItsFrancisWaf](https://x.com/messages)
 
 - 🐦 Twitter: [@ItsFrancisWaf](https://x.com/ItsFrancisWaf)
 - 📝 Blog: [blog.franciswafula.com](https://blog.franciswafula.com)
