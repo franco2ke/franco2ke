@@ -1,6 +1,6 @@
 ## Hi there 👋, Thanks for checking me out! 😃
 
-I'm **Francis Wafula**, a software developer who believes in building technology with consciousness and purpose. I blend technical excellence with a mindful approach, and hope to create secure, scalable and reliable applications that serve both users and the greater good.
+I'm **Francis Wafula**, a software developer who believes in building technology that's easy and natural for people to use. I blend technical excellence with a mindful approach, to create secure, scalable and reliable applications that serve both business interests and the greater good.
 
 I'm interested in **frontend roles** and **collaboration opportunities**. 📧 Send me a message: [www.franciswafula.com/contact](www.franciswafula.com/contact).
 
@@ -28,8 +28,8 @@ I'm interested in **frontend roles** and **collaboration opportunities**. 📧 S
 - Building a healthy community for tech developers to learn, grow and prosper.
 - Exploring AI tools, and how the future of work will look like.
 
-### Let's Connect 🤝
+**Parting Shot ⚡:** "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." 🧘‍♂️
+
+---
 
 🐦 Twitter: [@ItsFrancisWaf](https://x.com/ItsFrancisWaf) | 🎥 YouTube: [@ItsFrancisWaf](https://www.youtube.com/@ItsFrancisWaf) |📝 My Takes: [franciswafula.com/blog](https://franciswafula.com/blog)
-
-**Parting Shot ⚡:** "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." 🧘‍♂️
