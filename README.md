@@ -22,14 +22,11 @@ I'm interested in **frontend roles** and **collaboration opportunities**. 📧 S
 
 - **More here:** [https://www.franciswafula.com/projects](https://www.franciswafula.com/projects)
 
-### Current Focus 🎯
+### Talk to Me About ✅
 
 - Collaboration opportunities on projects using Node, Fastify, React, TypeScript.
 - Building a healthy community for tech developers to learn, grow and prosper.
 - Exploring AI tools, and how the future of work will look like.
-
-**Parting Shot ⚡:** "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." 🧘‍♂️
-
----
+- Whatever's on your mind 😏.
 
 🐦 Twitter: [@ItsFrancisWaf](https://x.com/ItsFrancisWaf) | 🎥 YouTube: [@ItsFrancisWaf](https://www.youtube.com/@ItsFrancisWaf) |📝 My Takes: [franciswafula.com/blog](https://franciswafula.com/blog)
