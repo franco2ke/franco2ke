@@ -1,51 +1,35 @@
-# Hi there 👋, Thanks for stopping by! 😀
+## Hi there 👋, Thanks for checking me out! 😃
 
-I'm **Francis Wafula**, a software developer who believes in building technology with consciousness and purpose. I blend technical excellence with a mindful approach, and hope to create scalable applications that serve both users and the greater good.
+I'm **Francis Wafula**, a software developer who believes in building technology with consciousness and purpose. I blend technical excellence with a mindful approach, and hope to create secure, scalable and reliable applications that serve both users and the greater good.
 
-I'm interested in **collaboration oportunities** and **healthy development discussions**. Let's connect! 📧 Contact me: [www.franciswafula.com/contact](www.franciswafula.com/contact) or 💬 DM me on X: [@ItsFrancisWaf](https://x.com/messages)
+I'm interested in **frontend roles** and **collaboration opportunities**. 📧 Send me a message: [www.franciswafula.com/contact](www.franciswafula.com/contact).
 
-## Skills & Expertise 🛠️
+### Skills & Expertise 🛠️
 
-**Frontend Development**
-- HTML5, CSS3, JavaScript/TypeScript
-- Frameworks: React, Astro, Tanstack, TailwindCSS, Bootstrap, 
-- Responsive design, Progressive Web Apps (PWAs)
+- **Frontend:** React, Astro, Tanstack, TailwindCSS, HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Fastify.js, Node.js,
+- **Systems & Infrastructure:** Linux, Docker, CI/CD
+- **Languages:** TypeScript, PHP, SQL (PostgreSQL, MySQL)
+- **Other:** Wordpress, Bootstrap, UI/UX, Vite
 
-**Backend & Systems**
-- Node.js, Express.js, Fastify.js, Wordpress (PHP)
-- REST APIs, Distributed Monoliths
+### Featured Projects 🚀
 
-**Infrastructure & DevOps**
-- Platform Engineering, Linux, Docker
-- CI/CD pipelines,
+- **Forkify:** A recipe search application that lets you discover, bookmark, and explore over 1,000,000 recipes. It features a clean, responsive and intuitive interface. Built with HTML5, CSS3, RecipeAPI.<br>[Live Demo](https://forkified-franco.netlify.app/#5ed6604591c37cdc054bc886) | [Repository](https://github.com/franco2ke/forkify)
 
-**Databases & Languages**
-- PostgreSQL, MySQL, MongoDB,
-- TypeScript, PHP
-- SQL optimization and database design
+- **Huddle:** A landing page template with a hero introduction and CTA<br>[Live Demo](https://franco2ke.github.io/huddle-landing-page/) | [Repository](https://github.com/franco2ke/huddle-landing-page)
 
-## Featured Projects 🚀
+- **Perfume:** A product preview card<br>[Live Demo](https://franco2ke.github.io/product-preview-card/) | [Repository](https://github.com/franco2ke/product-preview-card)
 
-### 🍳 **Forkified** - *Recipe Search App*
-A modern recipe search application that lets you discover, bookmark, and explore over 1,000,000 recipes with a clean, intuitive interface.
-*Tech: JavaScript, HTML5, CSS3, Recipe API*
-[🔗 Live Demo](https://forkified-franco.netlify.app/#5ed6604591c37cdc054bc886) | [📂 Repository](https://github.com/franco2ke/forkify)
+- **More here:** [https://www.franciswafula.com/projects](https://www.franciswafula.com/projects)
 
-### ⚡ **DevFlow** - *Tool*
-CLI tool for managing development workflows with consciousness breaks.
-*Tech: Node.js, Commander.js*
+### Current Focus 🎯
 
-**More projects:** [github.com/franciswafula](https://github.com/franciswafula)
+- Collaboration opportunities on projects using Node, Fastify, React, TypeScript.
+- Building a healthy community for tech developers to learn, grow and prosper.
+- Exploring AI tools, and how the future of work will look like.
 
-## Current Focus 🎯
+### Let's Connect 🤝
 
-- 🔭 Building experience with React Aria Components for accessible UI development
-- ⚡ Exploring Fastify.js for high-performance Node.js applications
-- 🌱 Exploring AI tools, and how the future of work will look like
+🐦 Twitter: [@ItsFrancisWaf](https://x.com/ItsFrancisWaf) | 🎥 YouTube: [@ItsFrancisWaf](https://www.youtube.com/@ItsFrancisWaf) |📝 My Takes: [franciswafula.com/blog](https://franciswafula.com/blog)
 
-## Fun Fact ⚡
-
-*"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."* 🧘‍♂️
-
-🐦 Twitter: [@ItsFrancisWaf](https://x.com/ItsFrancisWaf) | 📝 Blog: [blog.franciswafula.com](https://blog.franciswafula.com) | 💼 LinkedIn: [Francis Wafula](https://linkedin.com/in/franciswafula)
-
+**Parting Shot ⚡:** "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." 🧘‍♂️
