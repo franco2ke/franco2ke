@@ -7,7 +7,7 @@ I'm interested in **frontend roles** and **collaboration opportunities**. 📧 S
 ### Skills & Expertise 🛠️
 
 - **Frontend:** React, Astro, Tanstack, TailwindCSS, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js Fastify.js, Node.js,
+- **Backend:** Node.js, Express.js Fastify.js,
 - **Systems & Infrastructure:** Linux, Docker, CI/CD
 - **Languages:** TypeScript, PHP, SQL (PostgreSQL, MySQL)
 - **Other:** Wordpress, Bootstrap, UI/UX, Vite
