@@ -1,6 +1,6 @@
 ## Hi there 👋, Thanks for checking me out! 😃
 
-I'm **Francis Wafula**, a software developer who believes in building technology that's easy and natural for people to use and maintain. I blend technical excellence with a mindful approach, to create secure, scalable and reliable applications that serve both business interests and user needs.
+I'm **Francis Wafula**, a problem solver who happens to work in code. My approach starts with getting a deep understanding of the business or user challenges. This allows me to develop software solutions that are not only effective, but also secure, intuitive, and easy to maintain.
 
 I'm interested in **frontend roles** and **collaboration opportunities**. 📧 Send me a message: [www.franciswafula.com/contact](www.franciswafula.com/contact).
 
